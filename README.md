@@ -5,13 +5,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=cristiandelucas" alt="cristiandelucas" /></a> </p>
 
-- 🔭 Estoy trabajando actualmente en... [📲 APP JUMANDGYM](https://appjumandgym.netlify.app/)
+- 🔭 Estoy trabajando actualmente en... [📲 APP JUMANDGYM](https://appjumandgym.netlify.app/) , [👟 SNEAKERS](https://sneakers-webapp.netlify.app/) 
 
 - 🌱 Actualmente estoy programando en **Javascript, html, css, sass**
 
 - 👨‍💻 Podéis ver el resto de mis proyectos en mi portfolio [https://www.cristiandln.com/](https://www.cristiandln.com/)
-
-- 📝 Mi linkedin es [https://www.linkedin.com/feed/](https://www.linkedin.com/feed/)
 
 - 💬 Usando las tecnologías **React, Angular, Symfony y nextjs**
 
