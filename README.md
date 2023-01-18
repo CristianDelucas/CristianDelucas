@@ -17,7 +17,7 @@
 
 - 📫 Mi correo personal es **crdelucasnoguero@gmail.com**
 
-- 📄 Mis experiencias [He trabajado con diferentes lenguajes de programación como java, javascript, C++, Visual Basic. Mi última experiencia fue en el ayuntamiento de leganés donde estuve desarrollando aplicaciones corporativas y donde tuve rol de lider, tanto la gestión de objetivos como desarrollo de proyectos y reuniones con los diferentes departamentos públicos en leganés.](He trabajado con diferentes lenguajes de programación como java, javascript, C++, Visual Basic. Mi última experiencia fue en el ayuntamiento de leganés donde estuve desarrollando aplicaciones corporativas y donde tuve rol de lider, tanto la gestión de objetivos como desarrollo de proyectos y reuniones con los diferentes departamentos públicos en leganés.)
+- 📄 Mis experiencias [He trabajado con diferentes lenguajes de programación como java, javascript, C++, Visual Basic. Mi última experiencia fue en el ayuntamiento de leganés donde estuve desarrollando aplicaciones corporativas y donde tuve rol de lider, tanto la gestión de objetivos como desarrollo de proyectos y reuniones con los diferentes departamentos públicos en leganés.]
 
 - ⚡ Otros entretenimientos **Me gusta la naturaleza, hacer deporte y viajar. También me gusta hacer algo de comida pero bueno no es mi punto fuerte.**
 
