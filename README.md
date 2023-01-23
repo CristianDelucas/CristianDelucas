@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cristiandelucas&label=Profile%20views&color=0e75b6&style=flat" alt="cristiandelucas" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=cristiandelucas" alt="cristiandelucas" /></a> </p>
-
 - 🔭 Estoy trabajando actualmente en... [📲 APP JUMANDGYM](https://appjumandgym.netlify.app/) , [👟 SNEAKERS](https://sneakers-webapp.netlify.app/) 
 
 - 🌱 Actualmente estoy programando en **Javascript, html, css, sass**
